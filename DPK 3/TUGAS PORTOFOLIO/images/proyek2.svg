@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 20" shape-rendering="crispEdges">
+  <!-- Latar -->
+  <rect width="30" height="20" fill="#2b2b2b"/>
+  <!-- Jendela browser -->
+  <rect x="3" y="2" width="24" height="16" fill="#c6c6c6"/>
+  <rect x="3" y="2" width="24" height="3" fill="#7f7f7f"/>
+  <rect x="4" y="3" width="1" height="1" fill="#e5533d"/>
+  <rect x="6" y="3" width="1" height="1" fill="#ffd84d"/>
+  <rect x="8" y="3" width="1" height="1" fill="#7cfc00"/>
+  <!-- Navbar halaman -->
+  <rect x="4" y="6" width="22" height="2" fill="#3c8527"/>
+  <rect x="5" y="7" width="3" height="1" fill="#ffffff"/>
+  <rect x="10" y="7" width="3" height="1" fill="#ffffff"/>
+  <rect x="15" y="7" width="3" height="1" fill="#ffffff"/>
+  <!-- Isi halaman -->
+  <rect x="4" y="9" width="22" height="8" fill="#5dad3b"/>
+  <rect x="5" y="10" width="5" height="6" fill="#87ceeb"/>
+  <rect x="12" y="10" width="9" height="1" fill="#ffffff"/>
+  <rect x="12" y="12" width="12" height="1" fill="#1d3d0f"/>
+  <rect x="12" y="14" width="7" height="1" fill="#1d3d0f"/>
+  <rect x="12" y="15" width="4" height="1" fill="#ffd84d"/>
+</svg>
